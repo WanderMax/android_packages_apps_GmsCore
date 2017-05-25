@@ -70,7 +70,7 @@
 
     <string name="pick_place_title">选择地点</string>
     <string name="pick_place_desc">地点选择不可用。</string>
-    <string name="place_picker_select_title">选择此位置n</string>
+    <string name="place_picker_select_title">选择此位置</string>
     <string name="place_picker_nearby_places">附近地点</string>
     <string name="place_picker_location_lat_lng">(%1$.7f, %2$.7f)</string>
 
@@ -97,9 +97,9 @@
     <string name="self_check_pkg_gms">Play服务（GmsCore）</string>
     <string name="self_check_pkg_vending">Play商店（Phonesky）</string>
     <string name="self_check_pkg_gsf">服务框架（GSF）</string>
-    <string name="self_check_name_app_installed"><xliff:g example="F-Droid">%1$s</xliff:g>已安装：</string>
+    <string name="self_check_name_app_installed"><xliff:g example="F-Droid">%1$s</xliff:g>安装成功：</string>
     <string name="self_check_resolution_app_installed">请安装<xliff:g example="F-Droid">%1$s</xliff:g>或兼容的应用。请查阅有关应用兼容的文档。</string>
-    <string name="self_check_name_correct_sig"><xliff:g example="F-Droid">%1$s</xliff:g>存在正确签名：</string>
+    <string name="self_check_name_correct_sig"><xliff:g example="F-Droid">%1$s</xliff:g>签名正确：</string>
     <string name="self_check_resolution_correct_sig">安装的<xliff:g example="F-Droid">%1$s</xliff:g>不兼容或签名欺骗未激活。请查阅有关应用和固件兼容的文档。</string>
 
     <string name="self_check_name_battery_optimizations">电池优化已禁用：</string>
